@@ -1,5 +1,5 @@
 # threat_hunting_entropy
-Python Example for relative entropy calculation.
+Python Example for various entropy calculation.
 Based on the work of Red Canary https://redcanary.com/blog/threat-hunting-entropy/
 
 The various algorithms are stored in a class dictionary so all supported algorithms can be iterated through.
